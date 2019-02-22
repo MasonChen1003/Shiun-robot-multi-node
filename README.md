@@ -1,6 +1,6 @@
 Using Shiun Robot (Micro:bit Biped robot) to test multi-node function
 
-The code & idea is from WuLung Hsu (哈爸) , wuulong@gmail.com 
+The code & idea is from WuLung Hsu (哈爸) , https://www.facebook.com/wuulong.hsu
 
 Please refer to https://paper.dropbox.com/doc/MbitBot-DG5SSj5zQhBv1CoAgDtAG#:uid=505400665179915121062848&h2=Test-Result
 
