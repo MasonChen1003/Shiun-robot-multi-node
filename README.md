@@ -9,6 +9,7 @@ Please refer to https://paper.dropbox.com/doc/MbitBot-DG5SSj5zQhBv1CoAgDtAG#:uid
 Note : 
 
 Shiun Robot (Micro:bit Biped robot)
+
 Using Micro:bit + MiniPlan MiniPOW board(Micro:bit power extension board) to control the Shiun Robot
 
 Author : Mason Chen 
