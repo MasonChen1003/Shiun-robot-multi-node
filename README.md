@@ -4,6 +4,8 @@ The code & idea is from WuLung Hsu (哈爸) , wuulong@gmail.com
 
 Please refer to https://paper.dropbox.com/doc/MbitBot-DG5SSj5zQhBv1CoAgDtAG#:uid=505400665179915121062848&h2=Test-Result
 
+https://youtu.be/wrm6TgS7n6w
+
 Note : 
 
 Shiun Robot (Micro:bit Biped robot)
